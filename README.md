@@ -1,5 +1,7 @@
 # Dell Precision-5550 macOS with OpenCore
 
+![fad3c423-2bd2-448d-835f-828a0ae66160](/Users/zhouxiaorong/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_u9yhjy92y7cf21_2253/temp/InputTemp/fad3c423-2bd2-448d-835f-828a0ae66160.png)
+
 # 基本设置
 
 
@@ -63,6 +65,10 @@ setup_var SaSetup  0xF6 0x03 # Total DVMT = MAX
 # 声卡 补丁
 
 OCLP-Mod 3.0 给声卡打上补丁即可
+
+Pre-release for Tahoe-Test branch NOT STABLE VERSION(测试版 )
+
+https://github.com/laobamac/OCLP-Mod/releases/tag/push-3182c55cab3f2b95d5e659a2e4a19cbd6ddf5832#:~:text=5-,AutoPkg%2DAssets.pkg,-sha256%3A6058b7c654f7757126fe18bbe26c9969f29fe3dec18ec614e86b19125270bc6c
 
 
 
