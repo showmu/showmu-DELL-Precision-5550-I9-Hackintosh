@@ -1,4 +1,6 @@
-# Dell Precision-5550 macOS with OpenCore
+# Dell Precision-5550 macOS Tahoe with OpenCore
+
+macOS 26.0 (版本26.0 Beta版(25A5338b))
 
 ![Tahoe.png](https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/Tahoe.png?raw=true)
 
