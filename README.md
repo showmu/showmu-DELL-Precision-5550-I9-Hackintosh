@@ -1,6 +1,6 @@
 # Dell Precision-5550 macOS with OpenCore
 
-![fad3c423-2bd2-448d-835f-828a0ae66160](/Users/zhouxiaorong/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_u9yhjy92y7cf21_2253/temp/InputTemp/fad3c423-2bd2-448d-835f-828a0ae66160.png)
+![Tahoe.png](https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/Tahoe.png?raw=true)
 
 # 基本设置
 
