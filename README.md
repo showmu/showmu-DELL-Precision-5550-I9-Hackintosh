@@ -1,6 +1,6 @@
 # Dell Precision-5550 macOS Tahoe with OpenCore
 
-macOS 26.0 (版本26.0 Beta版(25A5338b))
+macOS 26.0 (版本26.0 Beta版(25A5338b))----15.6也能正常工作
 
 ![Tahoe.png](https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/Tahoe.png?raw=true)
 
@@ -36,7 +36,7 @@ macOS 26.0 (版本26.0 Beta版(25A5338b))
 | Display            | 3840 x 2400 UHD LCD(内置)          | ✅ Working     |
 |                    | 3840 x 2160 (外接显示器 RV200plus) | ✅ Working     |
 
-
+![硬件参数.png](https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E7%A1%AC%E4%BB%B6%E5%8F%82%E6%95%B0.png?raw=true)
 
 # BIOS 设置
 
@@ -82,11 +82,7 @@ https://github.com/laobamac/OCLP-Mod/releases/tag/push-3182c55cab3f2b95d5e659a2e
 
 
 
-# 咨询
-
-
-
-
+# 打偿、咨询
 
 
 
