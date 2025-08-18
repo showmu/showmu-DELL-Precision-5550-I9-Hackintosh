@@ -76,9 +76,9 @@ https://github.com/laobamac/OCLP-Mod/releases/tag/push-3182c55cab3f2b95d5e659a2e
 
 # 多系统启动
 
+在Misc的Boot中的Entries中增加自定义条目,选中\EFI\Microsoft\Boot\bootmgfw.efi,(Windows 11)
 
-
-
+![welcome.jpg](https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/welcome.jpg?raw=true)
 
 
 
