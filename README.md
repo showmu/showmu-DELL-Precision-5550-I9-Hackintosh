@@ -2,7 +2,7 @@
 
 macOS 26.0 (版本26.0 Beta版(25A5338b))----15.6也能正常工作
 
-![Tahoe.png](https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/Tahoe.png?raw=true)
+<img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/Tahoe.png?raw=true" alt="Tahoe.png" style="zoom:67%;" />
 
 # 基本设置
 
@@ -36,7 +36,7 @@ macOS 26.0 (版本26.0 Beta版(25A5338b))----15.6也能正常工作
 | Display            | 3840 x 2400 UHD LCD(内置)          | ✅ Working     |
 |                    | 3840 x 2160 (外接显示器 RV200plus) | ✅ Working     |
 
-![硬件参数.png](https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E7%A1%AC%E4%BB%B6%E5%8F%82%E6%95%B0.png?raw=true)
+<img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E7%A1%AC%E4%BB%B6%E5%8F%82%E6%95%B0.png?raw=true" alt="硬件参数.png" style="zoom:50%;" />
 
 # BIOS 设置
 
@@ -78,13 +78,13 @@ https://github.com/laobamac/OCLP-Mod/releases/tag/push-3182c55cab3f2b95d5e659a2e
 
 在Misc的Boot中的Entries中增加自定义条目,选中\EFI\Microsoft\Boot\bootmgfw.efi,(Windows 11)
 
-![welcome.jpg](https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/welcome.jpg?raw=true)
+<img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/welcome.jpg?raw=true" alt="welcome.jpg" style="zoom:50%;" />
 
 
 
 # 打偿、咨询
 
-
+<img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true" alt="支付宝.jpg" style="zoom:25%;" /><img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E6%94%B6%E6%AC%BE%E7%A0%81.jpg?raw=true" alt="收款码.jpg" style="zoom:25%;" /><img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E5%BE%AE%E4%BF%A1.jpg?raw=true" alt="微信.jpg" style="zoom: 25%;" />
 
 # 其他
 
