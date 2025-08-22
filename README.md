@@ -1,6 +1,6 @@
 # Dell Precision-5550 macOS Tahoe with OpenCore
 
-macOS 26.0 (版本26.0 Beta版(25A5338b))----15.6也能正常工作
+macOS 26.0 (版本26.0 Beta 7版(25A5346a))----15.6也能正常工作
 
 <img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/Tahoe.png?raw=true" alt="Tahoe.png" style="zoom:67%;" />
 
