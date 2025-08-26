@@ -82,10 +82,6 @@ https://github.com/laobamac/OCLP-Mod/releases/tag/push-3182c55cab3f2b95d5e659a2e
 
 
 
-# 打偿、咨询
-
-<img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true" alt="支付宝.jpg" style="zoom:25%;" /><img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E6%94%B6%E6%AC%BE%E7%A0%81.jpg?raw=true" alt="收款码.jpg" style="zoom:25%;" /><img src="https://github.com/showmu/showmu-DELL-Precision-5550-I9-Hackintosh/blob/main/%E5%BE%AE%E4%BF%A1.jpg?raw=true" alt="微信.jpg" style="zoom: 25%;" />
-
 # 其他
 
 
